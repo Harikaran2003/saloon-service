@@ -1,0 +1,10 @@
+# Node modules (frontend dependencies)
+node_modules/
+
+# Local secrets
+.env
+application-local.env
+
+# Build outputs
+dist/
+build/
